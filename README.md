@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+<img width="1919" height="952" alt="Screenshot 2026-01-05 153412" src="https://github.com/user-attachments/assets/b24e19f3-9dbe-4367-903d-98bf970025e7" /># Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Preview
+<img width="1919" height="952" alt="Screenshot 2026-01-05 153412" src="https://github.com/user-attachments/assets/be6ba6f1-5ca6-43ce-b372-57f3ac24493c" />
+<img width="1919" height="954" alt="Screenshot 2026-01-05 153429" src="https://github.com/user-attachments/assets/3accfe96-3499-4764-a3c8-329c3e2f9226" />
+<img width="1919" height="957" alt="Screenshot 2026-01-05 153527" src="https://github.com/user-attachments/assets/2b509586-1d37-4719-b84f-fff696a29b98" />
+<img width="1919" height="953" alt="Screenshot 2026-01-05 153549" src="https://github.com/user-attachments/assets/cd7eb569-12ee-4e5f-bf0c-b4f3b353f629" />
+<img width="1919" height="962" alt="Screenshot 2026-01-05 153623" src="https://github.com/user-attachments/assets/d90fd22f-8701-426c-98f8-42b5df7d7957" />
+<img width="1919" height="955" alt="Screenshot 2026-01-05 153635" src="https://github.com/user-attachments/assets/1bd00a9f-1db5-42d9-bc68-31dc8f972aad" />
+<img width="1919" height="959" alt="Screenshot 2026-01-05 153720" src="https://github.com/user-attachments/assets/5ba2156f-d59c-44ae-9283-1b77ebdc7996" />
+<img width="1919" height="960" alt="Screenshot 2026-01-05 153734" src="https://github.com/user-attachments/assets/40c2563f-5213-4328-bc63-95b43460788c" />
+<img width="1919" height="954" alt="Screenshot 2026-01-05 153907" src="https://github.com/user-attachments/assets/7f6a2416-3036-4d26-8b82-ecc7b9e8719d" />
+
+
+
+
+
+
+
+
+
+
+
